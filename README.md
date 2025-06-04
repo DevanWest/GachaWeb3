@@ -42,7 +42,8 @@ This will launch a local Hardhat JSON-RPC node at `http://127.0.0.1:8545` with 1
 npm run deploy:localhost
 ```
 
-You should see the VRF mock deployed, a subscription created and funded, GachaGame deployed, and the consumer added. A file `deployed.json` will be written to the project root.
+You should see the VRF mock deployed, a subscription created and funded, GachaGame deployed, and the consumer added. A file `deployed.json` will be written to the project root.\\
+
 ---
 
 ### 4. Fund GachaGame Contract (Terminal 3)
