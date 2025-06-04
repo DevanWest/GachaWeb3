@@ -43,7 +43,7 @@ npm run deploy:localhost
 ```
 
 You should see the VRF mock deployed, a subscription created and funded, GachaGame deployed, and the consumer added. A file `deployed.json` will be written to the project root.
-
+![Alt text describing the image](assets/Screenshot 2025-06-04 223042.png)
 ---
 
 ### 4. Fund GachaGame Contract (Terminal 3)
