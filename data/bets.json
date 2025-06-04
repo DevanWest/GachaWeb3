@@ -1,0 +1,37 @@
+{
+  "101": {
+    "requestId": "101",
+    "player": "0xAbC12345dEf67890aBcD12345Ef67890AbCd1234",
+    "won": false,
+    "payout": "0", 
+    "timestamp": 1685805000000
+  },
+  "102": {
+    "requestId": "102",
+    "player": "0xDeF67890aBcD12345Ef67890AbCd12345Ef67890",
+    "won": false,
+    "payout": "0",
+    "timestamp": 1685808600000
+  },
+  "103": {
+    "requestId": "103",
+    "player": "0x12345Ef67890AbCd12345Ef67890AbCd12345Ef6",
+    "won": true,
+    "payout": "450000000000000000", 
+    "timestamp": 1685812200000
+  },
+  "104": {
+    "requestId": "104",
+    "player": "0x67890AbCd12345Ef67890AbCd12345Ef67890AbC",
+    "won": false,
+    "payout": "0",
+    "timestamp": 1685815800000
+  },
+  "105": {
+    "requestId": "105",
+    "player": "0xEf67890AbCd12345Ef67890AbCd12345Ef67890A",
+    "won": false,
+    "payout": "0", 
+    "timestamp": 1685819400000
+  }
+}

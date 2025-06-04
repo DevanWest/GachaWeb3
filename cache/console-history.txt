@@ -1,0 +1,15 @@
+.exit
+console.log("Sent 5 ETH to GachaGame");
+});
+  value: ethers.utils.parseEther("5.0")
+  to: gachaAddr,
+await deployer.sendTransaction({
+// Send 5 ETH so the contract can pay winners
+const gachaAddr   = deployed.GachaGame;
+const gacha       = await ethers.getContractFactory("GachaGame");
+const deployed    = require("../deployed.json");
+const [deployer] = await ethers.getSigners();
+curl http://localhost:3000/api/bet/103/status
+.save deployed.json
+.save
+.help
